@@ -1,2 +1,0 @@
-# Goorm
-instagram
